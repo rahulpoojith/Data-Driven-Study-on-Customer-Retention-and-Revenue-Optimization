@@ -1,1 +1,15 @@
 
+# Python
+_pycache_/
+*.pyc
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Power BI temp
+*.pbix.tmp
