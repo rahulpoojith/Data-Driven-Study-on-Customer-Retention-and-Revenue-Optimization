@@ -83,5 +83,16 @@ Data-Driven-Study-on-Customer-Retention-and-Revenue-Optimization/
 
 ---
 
+---
+
+## 🧪 What This Project Demonstrates
+- KPI-first analytical thinking
+- Correct handling of metric grain
+- Proper application of A/B testing principles
+- Clean separation of analysis and reporting layers
+- Business-focused interpretation of analytical results
+
+---
+
 ## 📝 Notes
-This project is intended as a methodological case study emphasizing analytical rigor and decision-making.
+This project is intended as a methodological case study. The focus is on analytical rigor, clarity, and decision-making rather than domain-specific assumptions.
