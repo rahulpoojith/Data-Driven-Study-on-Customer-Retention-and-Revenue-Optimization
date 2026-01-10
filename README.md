@@ -114,3 +114,28 @@ Based on the experimental results:
 ---
 
 ## 🗂️ Project Structure
+Data-Driven-Study-on-Customer-Retention-and-Revenue-Optimization/
+│
+├── Datasets/              # Processed datasets used for analysis
+├── sql/                   # SQL views and KPI aggregation logic
+├── python/                # Data generation and statistical analysis scripts
+├── notebooks/             # Exploratory and validation notebooks
+├── powerbi/               # Reporting and dashboard artifacts
+├── README.md
+└── .gitignore
+
+
+
+---
+
+## 🧪 What This Project Demonstrates
+- KPI-first analytical thinking
+- Correct handling of metric grain
+- Proper application of A/B testing principles
+- Clean separation of analysis and reporting layers
+- Business-focused interpretation of analytical results
+
+---
+
+## 📝 Notes
+This project is intended as a methodological case study. The focus is on analytical rigor, clarity, and decision-making rather than domain-specific assumptions.
